@@ -1,0 +1,19 @@
+{
+  "name": "hubble-tool",
+  "version": "1.0.1",
+  "description": "hubble-tool for kl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubble",
+    "tool",
+    "vue"
+  ],
+  "author": "liuxin",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
+}
