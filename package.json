@@ -1,7 +1,7 @@
 {
-  "name": "hubble-tool",
-  "version": "1.0.1",
-  "description": "hubble-tool for kl",
+  "name": "@kaola/hubble-tool",
+  "version": "0.0.8",
+  "description": "hubble-tool base on hubbleSDK",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,6 +14,5 @@
   "author": "liuxin",
   "license": "ISC",
   "dependencies": {
-    "vue": "^2.6.10"
   }
 }
